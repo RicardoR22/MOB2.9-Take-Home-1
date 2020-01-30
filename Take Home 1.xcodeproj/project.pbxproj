@@ -79,7 +79,6 @@
 		8DA86C3723E15C78007A9804 = {
 			isa = PBXGroup;
 			children = (
-				8DA86C7823E17A24007A9804 /* NetworkLayer.swift */,
 				8DA86C4223E15C78007A9804 /* Take Home 1 */,
 				8DA86C5923E15C79007A9804 /* Take Home 1Tests */,
 				8DA86C4123E15C78007A9804 /* Products */,
@@ -98,6 +97,7 @@
 		8DA86C4223E15C78007A9804 /* Take Home 1 */ = {
 			isa = PBXGroup;
 			children = (
+				8DA86C7823E17A24007A9804 /* NetworkLayer.swift */,
 				8DA86C6C23E15FB3007A9804 /* Extensions */,
 				8DA86C6923E15E1E007A9804 /* Model */,
 				8DA86C6823E15E19007A9804 /* View */,
